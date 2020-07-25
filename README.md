@@ -22,5 +22,4 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 * [HTML5 Game Development News](http://www.html5gamedevelopment.org/html5-news)
 * [HTML5 Game Engines](http://www.html5gamedevelopment.org/html5-engines)
 
-
-
+Create a new branch and change the URL in the README.md to point to your own GitHub Pages site.
